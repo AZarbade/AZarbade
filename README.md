@@ -15,15 +15,15 @@
 
 *Click on the project name to directly go to it's GitHub Repository*
 
-- **[Simulation Results Prediction using Neural Networks](https://github.com/AZarbade/Simulation_Prediction_ANN)** - Checking to see if using Neural Networks are capable of aiding in Analysis and Simulation fields [AttnGAN](https://arxiv.org/abs/1711.10485): Fine-Grained Text to Image Generation with Attentional Generative Adverserial Networks.
+- **[Simulation Results Prediction using Neural Networks](https://github.com/AZarbade/Simulation_Prediction_ANN)** - Checking to see if using Neural Networks are capable of aiding in Analysis and Simulation fields. Work built on [Damage-potential comparisons](https://www.sciencedirect.com/science/article/abs/pii/S0734743X06001965): This paper shows particles impacting bumper plates in different configurations.
+
+- **[Infinitely Variable Transmission - IVT](https://github.com/AZarbade/infinitelyVariableTransmission_IVT)** - Miniaturizing continous variable transmission (CVT) used in vehicles for robotics applications. Based on [Inception Drive](https://spectrum.ieee.org/inception-drive-a-compact-infinitely-variable-transmission-for-robotics)
 
 ---
 
 ## 💪 Currently working on
 
-*Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project*
-
-- **[TITLE](LINK)** - A PyTorch re-implementation of the paper [AttnGAN](https://arxiv.org/abs/1711.10485): Fine-Grained Text to Image Generation with Attentional Generative Adverserial Networks. [[demo app](https://share.streamlit.io/gladiator07/text-to-image-synthesis-with-attngan/main/app.py)]
+- **[TITLE](LINK)** - Title here [paper](https://arxiv.org/abs/1711.10485): description.
 
 ---
 ## Contact Me
