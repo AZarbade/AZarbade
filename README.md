@@ -5,7 +5,7 @@
 ---
 ## About Me
 - 🔭 I am into Robotics and Machine Learning 
-- 🌱 I’m currently learning ROS <img height="14" width="14" src="https://cdn.simpleicons.org/ros" />
+- 🌱 I’m currently learning ROS <img height="14" width="14" src="https://cdn.simpleicons.org/ros" /> and <img height="18" width="18" src="https://cdn.simpleicons.org/rust" />
 - ⚡ Fun fact: Facts are fun
 <!-- - 👯 I’m looking to collaborate on -->
 
@@ -23,7 +23,7 @@
 
 ## 💪 Currently working on
 
-- **[TITLE](LINK)** - Title here [paper](https://arxiv.org/abs/1711.10485): description.
+- **[3DOF - Robotic Arm](LINK)** - Desktop size 3DOF robotic arm built on top of [IVT](https://github.com/AZarbade/infinitelyVariableTransmission_IVT)
 
 ---
 ## Contact Me
