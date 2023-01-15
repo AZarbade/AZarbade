@@ -1,4 +1,3 @@
-# WIP
 <h1 align="center">Hi 👋, I'm Adwait</h1>
 <h3 align="center">Undergrad student unifying theoretical and practical aspects of mathematics using Robotics.</h3>
 
