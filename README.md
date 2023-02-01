@@ -3,10 +3,11 @@
 
 ---
 ## About Me
-- 🔭 I am into Robotics and Machine Learning 
+- 🔭 I am into Robotics and Machine Learning for Finance
 - 🌱 I’m currently learning ROS <img height="14" width="14" src="https://cdn.simpleicons.org/ros" /> and <img height="18" width="18" src="https://cdn.simpleicons.org/rust" />
-- ⚡ Fun fact: Facts are fun
-<!-- - 👯 I’m looking to collaborate on -->
+- ⚒️ I’m currently working on Numerai Algorithms and Neural Networks for Tabular data
+- 🫂 I’m open to collaborating on Neural Networks for Tabular data
+<!-- - ⚡ Fun fact: Facts are fun -->
 
 ---
 
@@ -14,15 +15,17 @@
 
 *Click on the project name to directly go to it's GitHub Repository*
 
-- **[Simulation Results Prediction using Neural Networks](https://github.com/AZarbade/Simulation_Prediction_ANN)** - Checking to see if using Neural Networks are capable of aiding in Analysis and Simulation fields. Work built on [Damage-potential comparisons](https://www.sciencedirect.com/science/article/abs/pii/S0734743X06001965): This paper shows particles impacting bumper plates in different configurations.
-
 - **[Infinitely Variable Transmission - IVT](https://github.com/AZarbade/infinitelyVariableTransmission_IVT)** - Miniaturizing continous variable transmission (CVT) used in vehicles for robotics applications. Based on [Inception Drive](https://spectrum.ieee.org/inception-drive-a-compact-infinitely-variable-transmission-for-robotics)
+
+- **[Simulation Results Prediction using Neural Networks](https://github.com/AZarbade/Simulation_Prediction_ANN)** - Checking to see if using Neural Networks are capable of aiding in Analysis and Simulation fields. Work built on [Damage-potential comparisons](https://www.sciencedirect.com/science/article/abs/pii/S0734743X06001965): This paper shows particles impacting bumper plates in different configurations.
 
 ---
 
 ## 💪 Currently working on
 
 - **[3DOF - Robotic Arm](LINK)** - Desktop size 3DOF robotic arm built on top of [IVT](https://github.com/AZarbade/infinitelyVariableTransmission_IVT)
+
+- **[Research to PyTorch](https://github.com/AZarbade/pytorch_paperImplementations)** - An endeavor to reproduce the neural network models described in research publications.
 
 ---
 ## Contact Me
