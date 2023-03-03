@@ -4,7 +4,7 @@
 ---
 ## About Me
 - 🔭 I am into Robotics and Machine Learning for Finance
-- 🌱 I’m currently learning ROS <img height="14" width="14" src="https://cdn.simpleicons.org/ros" /> and <img height="18" width="18" src="https://cdn.simpleicons.org/rust" />
+- 🌱 I’m currently learning Docker
 - ⚒️ I’m currently working on Numerai Algorithms and Neural Networks for Tabular data
 - 🫂 I’m open to collaborating on Neural Networks for Tabular data
 <!-- - ⚡ Fun fact: Facts are fun -->
