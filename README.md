@@ -3,10 +3,10 @@
 
 ---
 ## About Me
-- 🔭 I am into Robotics and Machine Learning for Finance
-- 🌱 I’m currently learning Docker
-- ⚒️ I’m currently working on Numerai Algorithms and Neural Networks for Tabular data
-- 🫂 I’m open to collaborating on Neural Networks for Tabular data
+- 🔭 I am into Robotics and Scientific Computing
+- 🌱 I’m currently learning Julia
+- ⚒️ I’m currently working on "Neural Networks to interpolate impact simulation"
+<!-- - 🫂 I’m open to collaborating on Neural Networks for Tabular data -->
 <!-- - ⚡ Fun fact: Facts are fun -->
 
 ---
@@ -25,7 +25,7 @@
 
 - **[3DOF - Robotic Arm](LINK)** - Desktop size 3DOF robotic arm built on top of [IVT](https://github.com/AZarbade/infinitelyVariableTransmission_IVT)
 
-- **[Research to PyTorch](https://github.com/AZarbade/pytorch_paperImplementations)** - An endeavor to reproduce the neural network models described in research publications.
+<!-- - **[Research to PyTorch](https://github.com/AZarbade/pytorch_paperImplementations)** - An endeavor to reproduce the neural network models described in research publications. -->
 
 ---
 ## Contact Me
