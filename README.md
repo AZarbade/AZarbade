@@ -3,7 +3,7 @@
 
 ---
 ## About Me
-- 🔭 I am into Robotics and Scientific Computing
+- 🔭 I am into Micro Robotics and Scientific Computing
 - 🌱 I’m currently learning Julia
 - ⚒️ I’m currently working on "Neural Networks to interpolate impact simulation"
 <!-- - 🫂 I’m open to collaborating on Neural Networks for Tabular data -->
