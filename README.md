@@ -17,13 +17,13 @@
 
 - **[Infinitely Variable Transmission - IVT](https://github.com/AZarbade/infinitelyVariableTransmission_IVT)** - Miniaturizing continous variable transmission (CVT) used in vehicles for robotics applications. Based on [Inception Drive](https://spectrum.ieee.org/inception-drive-a-compact-infinitely-variable-transmission-for-robotics)
 
-- **[Simulation Results Prediction using Neural Networks](https://github.com/AZarbade/Simulation_Prediction_ANN)** - Checking to see if using Neural Networks are capable of aiding in Analysis and Simulation fields. Work built on [Damage-potential comparisons](https://www.sciencedirect.com/science/article/abs/pii/S0734743X06001965): This paper shows particles impacting bumper plates in different configurations.
+- **[Neural Networks to Interpolate Simulation Data at the Parameter Limits](https://github.com/AZarbade/Neural-Networks-to-Interpolate-Simulation-Data)** - Conducting simulations with the required level of accuracy can impose significant computational overhead, hindering the efficiency of the prototyping and conclusion cycle. Researchers often face challenges in finding a balance between the desired accuracy and the available time and computational resources. To address this problem, we aim to leverage Neural Networks (NN) as a means to reduce the computational burden and save time without sacrificing accuracy. By employing a NN-based pipeline, we can accelerate the prototyping process, allowing for faster experimentation and analysis. The pipeline involves training a NN using simulation data, utilizing the trained NN for interpolation, and obtaining accurate predictions efficiently. Work built on [Damage-potential comparisons](https://www.sciencedirect.com/science/article/abs/pii/S0734743X06001965): This paper shows particles impacting bumper plates in different configurations.
 
 ---
 
 ## 💪 Currently working on
 
-- **[3DOF - Robotic Arm](LINK)** - Desktop size 3DOF robotic arm built on top of [IVT](https://github.com/AZarbade/infinitelyVariableTransmission_IVT)
+- **[PINNs to interpolate Simulation data at parameter limits](https://github.com/AZarbade/PINNs-to-Interpolate-Simulation-Data-at-the-Parameter-Limits)**
 
 <!-- - **[Research to PyTorch](https://github.com/AZarbade/pytorch_paperImplementations)** - An endeavor to reproduce the neural network models described in research publications. -->
 
