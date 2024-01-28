@@ -4,9 +4,8 @@
 ---
 ## About Me
 - 🔭 I am into Micro Robotics and Scientific Computing
-- 🌱 I’m currently learning Julia
-- ⚒️ I’m currently working on "Neural Networks to interpolate impact simulation"
-<!-- - 🫂 I’m open to collaborating on Neural Networks for Tabular data -->
+- 🌱 I’m currently learning Rust
+- ⚒️ I’m currently working on "VoltLab", a lab power management and designation system
 <!-- - ⚡ Fun fact: Facts are fun -->
 
 ---
@@ -23,7 +22,7 @@
 
 ## 💪 Currently working on
 
-- **[PINNs to interpolate Simulation data at parameter limits](https://github.com/AZarbade/PINNs-to-Interpolate-Simulation-Data-at-the-Parameter-Limits)**
+<!-- - **[PINNs to interpolate Simulation data at parameter limits](https://github.com/AZarbade/PINNs-to-Interpolate-Simulation-Data-at-the-Parameter-Limits)** -->
 
 <!-- - **[Research to PyTorch](https://github.com/AZarbade/pytorch_paperImplementations)** - An endeavor to reproduce the neural network models described in research publications. -->
 
