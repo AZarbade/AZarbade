@@ -3,7 +3,7 @@
 
 ---
 ## About Me
-- 🔭 I am into Micro Robotics and 
+- 🔭 I am into Micro Robotics 
 - 🌱 I’m currently learning Rust
 - ⚒️ I’m currently working on "VoltLab", a lab power management and designation system
 <!-- - ⚡ Fun fact: Facts are fun -->
