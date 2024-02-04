@@ -1,5 +1,15 @@
 Hi 👋 My name is Adwait Zarbade
-===============================Unifying theory and practice----------------------------Just graduated with Mechanical Engineering 🎓. Bridging theory and practice. Macro Robotics Enthusiast.* ✉️  You can contact me at [anzarbade@gmail.com](mailto:anzarbade@gmail.com)* 🧠  I'm learning Rust 🦀
+===============================
+Macro Robotics Enthusiast
+----------------------------
+Just proudly graduated with a shiny new degree in Mechanical Engineering 🎓! I'm not just good at research—I practically thrive on it, fueled by an unstoppable passion for the field. My mission? To seamlessly bridge the gap between theory and practice, all while setting the bar for excellence.
+
+
+* 🌍  I'm based in Nagpur, India
+* 🚀  I’m currently working on VoltLab ⚡
+* 🧠  I'm learning Rust 🦀
+* 🤝  I'm open to collaborating on exciting projects as a developer 
+* ✉️  You can contact me at [anzarbade@gmail.com](mailto:anzarbade@gmail.com)
 
 ### Skills
 
