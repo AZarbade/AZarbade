@@ -5,12 +5,12 @@ Macro Robotics Enthusiast
 Just proudly graduated with a shiny new degree in Mechanical Engineering 🎓! I'm not just good at research—I practically thrive on it, fueled by an unstoppable passion for the field. My mission? To seamlessly bridge the gap between theory and practice, all while setting the bar for excellence.
 
 
-* 🌍  I'm based in India
-* 🚀  I’m currently working on VoltLab ⚡
-* 🧠  I'm learning Rust 🦀
-* 📒  Check all my projects [here](https://github.com/AZarbade?tab=repositories)
-* 🤝  I'm open to collaborating on exciting projects as a developer 
-* ✉️  You can contact me at [anzarbade@gmail.com](mailto:anzarbade@gmail.com)
+*   I'm based in India
+*   I’m currently working on VoltLab ⚡
+*   I'm learning Rust 🦀
+*   Check all my projects [here](https://github.com/AZarbade?tab=repositories)
+*   I'm open to collaborating on exciting projects as a developer 
+*   You can contact me at [anzarbade@gmail.com](mailto:anzarbade@gmail.com)
 
 
 ### Skills
