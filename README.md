@@ -6,7 +6,7 @@ Just proudly graduated with a shiny new degree in Mechanical Engineering 🎓! I
 
 
 * I'm learning Rust 🦀
-* I’m currently working on [DeepSeek](https://github.com/AZarbade/deepseek)
+* I’m currently working on [Embedded Rust](https://github.com/AZarbade/esp32_embedded_rust)
 * Check all my projects [here](https://github.com/AZarbade?tab=repositories)
 * I'm open to collaborating on exciting projects as a developer 
 * You can contact me at [anzarbade@gmail.com](mailto:anzarbade@gmail.com)
